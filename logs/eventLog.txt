@@ -1,0 +1,4 @@
+20220907	10:27:25	758bfb64-6753-46ce-84ae-edee984e8a5d	log event emittted!
+20220907	10:27:47	fb5ed8df-7715-4a6d-a77c-7f7684066c4f	log event emittted!
+20220907	10:28:01	77b38108-5092-4a59-a15e-fe7543c5a400	log event emittted!
+20220907	10:30:33	246bb144-78ef-48b3-86ca-92bdb14fc32c	log event emittted!

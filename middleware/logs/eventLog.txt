@@ -427,3 +427,13 @@
 20220926	12:08:20	561e4b2f-30e6-4b5f-9be6-836569e24a5a	POST	http://localhost:3000	/auth
 20220926	12:56:51	c68c6bb8-0008-4ef1-87ce-e77a2be5c2b1	OPTIONS	http://localhost:3000	/auth
 20220926	12:56:51	86efc117-e2f3-4cc6-a741-767c323273f0	POST	http://localhost:3000	/auth
+20220927	09:19:31	7e91061a-9c8f-4c17-8eef-62a623c11ff5	OPTIONS	http://localhost:3000	/auth
+20220927	09:19:31	e8eb3845-d415-418e-8461-85d75b086f52	POST	http://localhost:3000	/auth
+20220927	09:26:12	d3946557-a6ed-452c-a47a-b26cfd21efa9	OPTIONS	http://localhost:3000	/auth
+20220927	09:26:12	d01d2817-a2fe-4f0e-bc25-e5b2a5a27ba3	POST	http://localhost:3000	/auth
+20220927	09:27:57	a068594e-ed27-4b4d-8e60-8485fd31a32e	OPTIONS	http://localhost:3000	/auth
+20220927	09:27:57	bf740f12-0244-41b0-9463-a23ac332fbab	POST	http://localhost:3000	/auth
+20220927	09:29:09	5b1c4f5e-04f3-417c-87b2-a1c908e261ed	OPTIONS	http://localhost:3000	/auth
+20220927	09:29:09	61df09fe-d1be-490f-9eab-786ed4782030	POST	http://localhost:3000	/auth
+20220927	09:30:49	db00ea01-a5c2-4abb-862d-8f093ba6636e	OPTIONS	http://localhost:3000	/auth
+20220927	09:30:49	9d4ce083-8ed4-49dd-b6bc-c62c996ced3b	POST	http://localhost:3000	/auth
